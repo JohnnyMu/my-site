@@ -1,0 +1,4 @@
+---
+postType: index
+___
+content

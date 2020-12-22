@@ -1,0 +1,4 @@
+---
+postType: chinese
+___
+content

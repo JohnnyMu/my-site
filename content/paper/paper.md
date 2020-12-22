@@ -1,0 +1,4 @@
+---
+postType: paper
+___
+content
